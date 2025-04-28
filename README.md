@@ -47,7 +47,8 @@
 
 ---
 # Project Setup
-- Install necessary dependencies, libraries & toolkits  
+- Install necessary dependencies, libraries & toolkits
+- Do not forgot to add .env file and add appropriate details & credentials
 ```
 > cd code/back
 > npm i update
