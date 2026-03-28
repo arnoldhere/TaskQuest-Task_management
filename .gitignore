@@ -1,3 +1,7 @@
 /code/back/node_modules
 /code/front/node_modules
 /code/back/uploads
+.env
+/code/back/.env
+/code/front/.env
+.DS_Store
